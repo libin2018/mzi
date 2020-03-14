@@ -1,0 +1,24 @@
+{
+  "name": "mzi",
+  "version": "1.0.0",
+  "description": "一个使用puppeteer爬妹子图的demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js -l 1,5",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libin2018/mzi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libin2018/mzi/issues"
+  },
+  "homepage": "https://github.com/libin2018/mzi#readme",
+  "dependencies": {
+    "puppeteer": "^1.1.1",
+    "commander": "^4.1.1"
+  }
+}
