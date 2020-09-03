@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/libin2018/mzi#readme",
   "dependencies": {
-    "puppeteer": "^1.1.1",
+    "puppeteer": "^1.13.0",
     "commander": "^4.1.1"
   }
 }
